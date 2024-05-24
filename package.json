@@ -1,8 +1,9 @@
 {
-  "name": "@uniswap/analytics",
-  "description": "Uniswap analytics",
-  "repository": "https://github.com/Uniswap/analytics",
+  "name": "swifydex-analytics",
+  "description": "SwifyDex analytics",
+  "repository": "https://github.com/RaghuJingade/swifyDex-analytics.git",
   "license": "MIT",
+  "version": "1.0.0",
   "publishConfig": {
     "access": "public"
   },
